@@ -1,2 +1,2 @@
-# duckduckgo-browser
+# DuckDuckGo Browser
 WebBrowser with DuckDuckGo &amp; WebKitGTK
