@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=DuckDuckGo Browser
+Type=Application
+Comment=open-source browser with DuckDuckGo by default
+Icon=com.github.vikdevelop.duckduckgobrowser
+Exec=duckduckgobrowser
+Category=Internet
