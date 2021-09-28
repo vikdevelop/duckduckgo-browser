@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+    <id>com.github.vikdevelop.duckduckgobrowser</id>
+    <launchable type="desktop-id">com.github.vikdevelop.duckduckgobrowser.desktop</launchable>
+    <name>DuckDuckGo Browser</name>
+    <summary>Browser with DuckDuckGo in default</summary>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>MIT</project_license>
+    <description>
+       <p>Internet Web Browser with DuckDuckGo Search Engine in default, which respects your privacy.</p>
+    </description>
+    <url type="homepage">https://github.com/vikdevelop/duckduckgo-browser</url>
+    <url type="bugtracker">https://github.com/vikdevelop/duckduckgo-browser/issues</url>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://raw.githubusercontent.com/vikdevelop/duckduckgo-browser/main/data/screenshots/duckduckgobrowser-home.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/vikdevelop/duckduckgo-browser/main/data/screenshots/duckduckgobrowser-search.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/vikdevelop/duckduckgo-browser/main/data/screenshots/duckduckgobrowser-settings.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/vikdevelop/duckduckgo-browser/main/data/screenshots/duckduckgobrowser-other-websites.png</image>
+        <screenshot>
+    </screenshots>
+    <content_rating type="oars-1.1"/>
+    <releases>
+        <!-- first version -->
+        <release version="0.1" date="2021-09-28">
+        </release>
+  </releases>
+</component>
